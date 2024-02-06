@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Progress and Importance" section_id="bc793504975c0210d8b1bd0de053af0e" sys_domain="global" table="x_888026_to_do_to_do" version="3" view="User">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>progress</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-06 23:34:01</sys_created_on>
+            <sys_id>85793504975c0210d8b1bd0de053af9f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Progress and Importance" display_value="Progress and Importance" name="x_888026_to_do_to_do" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">bc793504975c0210d8b1bd0de053af0e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-06 23:34:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-06 23:34:01</sys_created_on>
+            <sys_id>89793504975c0210d8b1bd0de053af9f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Progress and Importance" display_value="Progress and Importance" name="x_888026_to_do_to_do" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">bc793504975c0210d8b1bd0de053af0e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-06 23:34:01</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>importance</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-06 23:34:01</sys_created_on>
+            <sys_id>8d793504975c0210d8b1bd0de053af9f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Progress and Importance" display_value="Progress and Importance" name="x_888026_to_do_to_do" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">bc793504975c0210d8b1bd0de053af0e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-06 23:34:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Progress and Importance</caption>
+            <header>false</header>
+            <name>x_888026_to_do_to_do</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-06 23:34:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bc793504975c0210d8b1bd0de053af0e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_888026_to_do_to_do</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="To Do" source="x_888026_to_do">d86e6148971c0210d8b1bd0de053af79</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="To Do">d86e6148971c0210d8b1bd0de053af79</sys_scope>
+            <sys_update_name>sys_ui_section_bc793504975c0210d8b1bd0de053af0e</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-06 23:34:00</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="User" name="User">5bd975bd0fa03200cd674f8ce1050e7f</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
